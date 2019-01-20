@@ -8,11 +8,11 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/main.115c8130639d88856cf8.js",
-        "/polyfills.b884faaa7fbdf1e5d7e3.js",
+        "/main.007d7e98e7fef5d06455.js",
+        "/polyfills.7820b8e642bf78fc61fc.js",
         "/runtime.6afe30102d8fe7337431.js",
-        "/scripts.7eceae9fb47fcd357dfc.js",
-        "/styles.257a29759c2900612dc7.css"
+        "/scripts.8bde5597056f6ba2f6a7.js",
+        "/styles.2d32b3c28283c3796826.css"
       ],
       "patterns": []
     },
@@ -27,14 +27,9 @@
         "/assets/back1.jpg",
         "/assets/back2.jpg",
         "/assets/code.jpg",
-        "/assets/code1.jpg",
         "/assets/code3.jpg",
-        "/assets/code4.jpg",
         "/assets/code5.jpg",
-        "/assets/d.png",
-        "/assets/demaro1.jpg",
         "/assets/doge2.jpg",
-        "/assets/ekermet.jpg",
         "/assets/favicon.ico",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -64,14 +59,9 @@
     "/assets/back1.jpg": "0e32999ea7d6b6ab6ea508c37478f589e26bcc21",
     "/assets/back2.jpg": "4e1f2a32302f74eff8a856b4acb4fb54de171927",
     "/assets/code.jpg": "a5b777383dbefc070fb5b0032dd4310aa72a06fb",
-    "/assets/code1.jpg": "c2a5d08f3ea416cc66c4c3d40378d41f1fb693da",
     "/assets/code3.jpg": "8b4f034a14dd987bd2b231906dbb1289c87e2ea5",
-    "/assets/code4.jpg": "44be85b999301a4f434df08c484d356cf1983901",
     "/assets/code5.jpg": "81e813c689cfc3634b4dc0d5fea02be7db655d99",
-    "/assets/d.png": "61c2164e6d2de352412b3ebb3d460ca16917f483",
-    "/assets/demaro1.jpg": "cc89ef5e22dcda71cbe3c678083b22fb1607564c",
     "/assets/doge2.jpg": "138d0088fb040218bdc6ff2029bebf0829e53782",
-    "/assets/ekermet.jpg": "43b64b6851c96b2e9f64222c3d200039f95423ac",
     "/assets/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -89,12 +79,12 @@
     "/assets/project/insta7.jpg": "864b4da190376d67808581620c3f1d596f5d2c0c",
     "/assets/project/insta8.png": "b3ddf2f5e7b1b94580653d0043ac72ddf291c57e",
     "/assets/sky.jpg": "4cc314f7afc5e4869d0d94b6aca0aaeef55b4adc",
-    "/index.html": "48372e17849080c38b26c14b309c80191c108ab3",
-    "/main.115c8130639d88856cf8.js": "a2ad0c5058f2656a2cb2afa8020a5c938b699735",
-    "/polyfills.b884faaa7fbdf1e5d7e3.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
+    "/index.html": "6ef81f32e7a221325e7f0de2a89bd6da08d4889b",
+    "/main.007d7e98e7fef5d06455.js": "687054820b08653c0c6a1692e4094ade82d586e6",
+    "/polyfills.7820b8e642bf78fc61fc.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/scripts.7eceae9fb47fcd357dfc.js": "6eabda25179aae487081c5ee15defd7c70c29934",
-    "/styles.257a29759c2900612dc7.css": "9acd006faa3ebc4226b79d570cbfc514dcf35d65"
+    "/scripts.8bde5597056f6ba2f6a7.js": "6eabda25179aae487081c5ee15defd7c70c29934",
+    "/styles.2d32b3c28283c3796826.css": "77550614c992854c4c70a46c38441e808c29ce00"
   },
   "navigationUrls": [
     {
